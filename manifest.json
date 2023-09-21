@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "author": "Sadiq Ramanu",
+    "description": "Displays NBA Games",
+    "name": "NBA Games",
+    "version": "1.0.0",
+    "action": {
+        "default_title": "NBA Games",
+        "default_popup": "index.html"
+    }
+}
